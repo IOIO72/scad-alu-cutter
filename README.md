@@ -1,12 +1,23 @@
-# Aluminium Foil Gas Stove Cutter
+# Aluminium Foil Stove Cutter
 
 by IOIO72 aka Tamio Patrick Honma (https://honma.de)
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Description
 
 To protect your gas stove from dirt, you can use aluminum foil. Now you can cut out the circles for the burners with the aluminum foil gas stove cutter without any problems.
+
+![Aluminium Foil on Gas Stove](20210612_213725.jpg)
+![Aluminium Foil Cutter assembled](20210612_215937.jpg)
+![Aluminium Foil Cutter separated](20210612_213323.jpg)
+![Cut step 1](20210612_213349.jpg)
+![Cut step 2a](20210612_213358.jpg)
+![Cut step 2b](20210612_213424.jpg)
+![Cut step 2c](20210612_213426.jpg)
+![Cut step 3a](20210612_213448.jpg)
+![Cut step 3b](20210612_213500.jpg)
+![Cut steo 4](20210612_213515.jpg)
+![Finished](20210612_213702.jpg)
+
 
 ## Print
 
@@ -20,20 +31,21 @@ For the rest of the model you should avoid to use fill. **Use many walls** (i.e.
 
 If you don't see the walls of the cutter, you should **enable thin walls** in your slicer.
 
+![Change on height](Bildschirmfoto%202021-06-12%20um%2021.43.55.png)
+![Change height settings](Bildschirmfoto%202021-06-12%20um%2021.44.55.png)
+
 ## Customizer
 
 As the gas stoves are different, you can use the customizer to use the diameters of your individual burners.
 
 ### Use OpenSCAD
 
-As the Thingiverse customizer has some issues. It's better to use OpenSCAD instead.
-
 1. **Download and install:** [OpenSCAD](http://openscad.org/) version 2021.01 or newer
 2. **Download:** The *.scad file of this model.
 3. **Start** OpenSCAD and **open** the *.scad file in it.
 4. **Open the customizer** via the menu "Window/Customizer"
 
-Now you can configure the model.
+Now you can configure the model and use the `F5` key to render the preview of your changes.
 
 #### Export your STL file
 
@@ -51,4 +63,3 @@ If you like to use your configuration as a template for further models, it's a g
 2. Give your configuration a name.
 
 Use the drop-down menu to access your saved configurations.
-
