@@ -1,0 +1,17 @@
+{
+    "parameterSets": {
+        "Big": {
+            "$fn": "70",
+            "blade_sheath_tolerance": "2.5",
+            "cutter_blade_height": "2.5",
+            "cutter_blade_size": "1.2",
+            "cutter_diameter": "80",
+            "handle_height": "2",
+            "handle_width": "10",
+            "parts": "all",
+            "saw_tooth_height": "2",
+            "saw_tooth_width": "4"
+        }
+    },
+    "fileFormatVersion": "1"
+}
